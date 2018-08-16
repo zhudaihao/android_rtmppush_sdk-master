@@ -1,0 +1,7 @@
+#Thu May 03 10:31:45 CST 2018
+base.0=D\:\\vide\\android_rtmppush_sdk-master\\android_rtmppush_sdk-master\\comalexlivertmppushsdkdemo\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-v4-19.1.0_4122fa1d5d323f6a65df823f3324c6c51b4a2cd3
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\vide\\android_rtmppush_sdk-master\\android_rtmppush_sdk-master\\comalexlivertmppushsdkdemo\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_e6b96ef5cc7a411397d94fd6afa676bac106af67\\classes.dex
+base.1=D\:\\vide\\android_rtmppush_sdk-master\\android_rtmppush_sdk-master\\comalexlivertmppushsdkdemo\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_e6b96ef5cc7a411397d94fd6afa676bac106af67
+file.0=D\:\\vide\\android_rtmppush_sdk-master\\android_rtmppush_sdk-master\\comalexlivertmppushsdkdemo\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-v4-19.1.0_4122fa1d5d323f6a65df823f3324c6c51b4a2cd3\\classes.dex

@@ -1,0 +1,4 @@
+#Wed May 16 17:58:11 CST 2018
+base.0=D\:\\vide\\android_rtmppush_sdk-master\\android_rtmppush_sdk-master\\comalexlivertmppushsdkdemo\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_2
+renamed.0=classes.dex
+file.0=D\:\\vide\\android_rtmppush_sdk-master\\android_rtmppush_sdk-master\\comalexlivertmppushsdkdemo\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_2\\classes.dex

@@ -1,0 +1,7 @@
+#Thu Aug 16 14:27:11 CST 2018
+base.0=D\:\\vide\\android_rtmppush_sdk-master\\android_rtmppush_sdk-master\\comalexlivertmppushsdkdemo\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_d0abbb173e28c57c1be3d67f4d26452543da30f5
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\vide\\android_rtmppush_sdk-master\\android_rtmppush_sdk-master\\comalexlivertmppushsdkdemo\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_f3c5f4f257f7d8bcee34cbccc7f470e1f63d03e7\\classes.dex
+base.1=D\:\\vide\\android_rtmppush_sdk-master\\android_rtmppush_sdk-master\\comalexlivertmppushsdkdemo\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_f3c5f4f257f7d8bcee34cbccc7f470e1f63d03e7
+file.0=D\:\\vide\\android_rtmppush_sdk-master\\android_rtmppush_sdk-master\\comalexlivertmppushsdkdemo\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_d0abbb173e28c57c1be3d67f4d26452543da30f5\\classes.dex

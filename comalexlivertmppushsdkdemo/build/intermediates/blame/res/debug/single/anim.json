@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\vide\\android_rtmppush_sdk-master\\android_rtmppush_sdk-master\\comalexlivertmppushsdkdemo\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f36fda50c5b1dc5562f0118a5ab101b9d89cd5f8\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "D:\\vide\\android_rtmppush_sdk-master\\android_rtmppush_sdk-master\\comalexlivertmppushsdkdemo\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f36fda50c5b1dc5562f0118a5ab101b9d89cd5f8\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "D:\\vide\\android_rtmppush_sdk-master\\android_rtmppush_sdk-master\\comalexlivertmppushsdkdemo\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f36fda50c5b1dc5562f0118a5ab101b9d89cd5f8\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "D:\\vide\\android_rtmppush_sdk-master\\android_rtmppush_sdk-master\\comalexlivertmppushsdkdemo\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f36fda50c5b1dc5562f0118a5ab101b9d89cd5f8\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "D:\\vide\\android_rtmppush_sdk-master\\android_rtmppush_sdk-master\\comalexlivertmppushsdkdemo\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f36fda50c5b1dc5562f0118a5ab101b9d89cd5f8\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "D:\\vide\\android_rtmppush_sdk-master\\android_rtmppush_sdk-master\\comalexlivertmppushsdkdemo\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f36fda50c5b1dc5562f0118a5ab101b9d89cd5f8\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    }
+]

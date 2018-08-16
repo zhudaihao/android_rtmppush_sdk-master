@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\vide\android_rtmppush_sdk-master\android_rtmppush_sdk-master\vitamio\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e925cef227e4831cc0e72ee6dfe2ca80637febc0">
+        <dex dex="D:\vide\android_rtmppush_sdk-master\android_rtmppush_sdk-master\SuperVideoPlayer\build\intermediates\pre-dexed\debug\classes_202d33df560995e218ff5c1d2bf2a8cbe39dd87b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\f36fda50c5b1dc5562f0118a5ab101b9d89cd5f8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8f11f56e350eacabf2273f646d981356eea0ed77">
+        <dex dex="D:\vide\android_rtmppush_sdk-master\android_rtmppush_sdk-master\comalexlivertmppushsdkdemo\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e6b96ef5cc7a411397d94fd6afa676bac106af67\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\org.greenrobot\greendao\2.2.0\fc87fa8db9e03b78b453bb079b77ae4942bc5b20\greendao-2.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fc87fa8db9e03b78b453bb079b77ae4942bc5b20">
+        <dex dex="D:\vide\android_rtmppush_sdk-master\android_rtmppush_sdk-master\SuperVideoPlayer\build\intermediates\pre-dexed\debug\greendao-2.2.0_3a725faed01809c1f1f6aaecd7be7699cae2d6c2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\f0063073268b1ba8412daa30b13db158f5309b85\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8ec8378e8d7aa3104f60823e6350f2728d3609ba">
+        <dex dex="D:\vide\android_rtmppush_sdk-master\android_rtmppush_sdk-master\SuperVideoPlayer\build\intermediates\pre-dexed\debug\classes_50a94c685d95313f9310a79bb3efb8a6f93c5dde.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\vide\android_rtmppush_sdk-master\android_rtmppush_sdk-master\SuperVideoPlayer\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7c2564ccc3a35137a275b5993fd175022b53bd31">
+        <dex dex="D:\vide\android_rtmppush_sdk-master\android_rtmppush_sdk-master\SuperVideoPlayer\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_25f00414fdc31ec688ecf743eda7dd5cc10d44d5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\vide\android_rtmppush_sdk-master\android_rtmppush_sdk-master\SuperVideoPlayer\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="D:\vide\android_rtmppush_sdk-master\android_rtmppush_sdk-master\SuperVideoPlayer\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_0193cc9b5d6c77435ca67aded922b98135cc6f7e\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\33e547bd26f401ef746aabce51db2bc43e683b97\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="607d961caf1a59b6e782724654c1f3229e036c20">
+        <dex dex="D:\vide\android_rtmppush_sdk-master\android_rtmppush_sdk-master\SuperVideoPlayer\build\intermediates\pre-dexed\debug\classes_eaaa8044eeb3ebc74de9adcca069c7d2a8a5160d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\5deb5c768f6ee0c59ade27325e5e240a51e1856c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="91c2541305eec5a688f3a60529d974e48f77d760">
+        <dex dex="D:\vide\android_rtmppush_sdk-master\android_rtmppush_sdk-master\SuperVideoPlayer\build\intermediates\pre-dexed\debug\classes_3b900bf5ce9a91d1c628df3f2518b4a3c6b8b014.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\40b6d2ec78100be3ba4d45db0d04399f373408e5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="843c3809836c7495378653c431070be85301a604">
+        <dex dex="D:\vide\android_rtmppush_sdk-master\android_rtmppush_sdk-master\SuperVideoPlayer\build\intermediates\pre-dexed\debug\classes_e69129e97006d3548d8f87fe9d369a1238132efb.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\vide\android_rtmppush_sdk-master\android_rtmppush_sdk-master\comalexlivertmppushsdkdemo\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3c7dcad994af89b10d6b1d77ced773c40de66e0e">
+        <dex dex="D:\vide\android_rtmppush_sdk-master\android_rtmppush_sdk-master\comalexlivertmppushsdkdemo\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_f3c5f4f257f7d8bcee34cbccc7f470e1f63d03e7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\vide\android_rtmppush_sdk-master\android_rtmppush_sdk-master\comalexlivertmppushsdkdemo\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="D:\vide\android_rtmppush_sdk-master\android_rtmppush_sdk-master\comalexlivertmppushsdkdemo\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_d0abbb173e28c57c1be3d67f4d26452543da30f5\classes.dex" />
+    </item>
+
+</items>

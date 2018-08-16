@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="D:\vide\android_rtmppush_sdk-master\android_rtmppush_sdk-master\comalexlivertmppushsdkdemo\src\main\jniLibs"/></dataSet><dataSet config="debug"><source path="D:\vide\android_rtmppush_sdk-master\android_rtmppush_sdk-master\comalexlivertmppushsdkdemo\src\debug\jniLibs"/></dataSet></merger>
